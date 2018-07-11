@@ -1,2 +1,2 @@
 # FuncProjectEuler
-project euler solutions in haskell
+My project euler solutions in haskell
